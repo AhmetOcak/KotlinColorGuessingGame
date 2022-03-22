@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_margin">7dp</item>
+        <item name="android:layout_width">80dp</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="backgroundTint">@color/pink</item>
+        <item name="android:textColor">@color/vibrantpink</item>
+    </style>
+</resources>
