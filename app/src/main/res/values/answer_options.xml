@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question1">
+        <item>PINK</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+    </string-array>
+
+    <string-array name="question2">
+        <item>BLUE</item>
+        <item>DARK BLUE</item>
+        <item>BROWN</item>
+    </string-array>
+
+    <string-array name="question3">
+        <item>ORANGE</item>
+        <item>GREEN</item>
+        <item>RED</item>
+    </string-array>
+
+    <string-array name="question4">
+        <item>YELLOW</item>
+        <item>CREAM</item>
+        <item>WHITE</item>
+    </string-array>
+
+    <string-array name="question5">
+        <item>PINK</item>
+        <item>WHITE</item>
+        <item>YELLOW</item>
+    </string-array>
+
+    <string-array name="question6">
+        <item>YELLOW</item>
+        <item>RED</item>
+        <item>ORANGE</item>
+    </string-array>
+
+    <string-array name="question7">
+        <item>BLUE</item>
+        <item>LIGHT BLUE</item>
+        <item>WHITE</item>
+    </string-array>
+
+    <string-array name="question8">
+        <item>BROWN</item>
+        <item>BLACK</item>
+        <item>YELLOW</item>
+    </string-array>
+
+    <string-array name="question9">
+        <item>PURPLE</item>
+        <item>PINK</item>
+        <item>YELLOW</item>
+    </string-array>
+
+    <string-array name="question10">
+        <item>RED</item>
+        <item>ORANGE</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>

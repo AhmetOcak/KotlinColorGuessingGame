@@ -60,23 +60,23 @@
         <Button
             android:id="@+id/answer1"
             style="@style/buttonStyle"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="Blue" />
+            android:text="." />
 
         <Button
             android:id="@+id/answer2"
             style="@style/buttonStyle"
-            android:layout_height="wrap_content"
+            android:layout_height="80dp"
             android:layout_weight="1"
-            android:text="Green" />
+            android:text="." />
 
         <Button
             android:id="@+id/answer3"
             style="@style/buttonStyle"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="PINK" />
+            android:text="." />
     </LinearLayout>
 
     <TextView

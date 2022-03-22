@@ -17,10 +17,17 @@ class GameActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityGameBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        binding.answer1.text = resources.getStringArray(DataSource().loadAnswerOptions()[0])[0]
+        binding.answer2.text = resources.getStringArray(DataSource().loadAnswerOptions()[0])[1]
+        binding.answer3.text = resources.getStringArray(DataSource().loadAnswerOptions()[0])[2]
     }
 
     fun answerButton(view: View) {
         binding.flowerImage.setImageResource(DataSource().loadFlowers()[s])
+        binding.answer1.text = resources.getStringArray(DataSource().loadAnswerOptions()[s])[0]
+        binding.answer2.text = resources.getStringArray(DataSource().loadAnswerOptions()[s])[1]
+        binding.answer3.text = resources.getStringArray(DataSource().loadAnswerOptions()[s])[2]
         s +=1
         if(s == 10) s = 0
     }
