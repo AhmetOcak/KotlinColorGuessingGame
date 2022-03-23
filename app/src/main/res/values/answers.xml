@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="answer1">pink</string>
-    <string name="answer2">darkblue</string>
-    <string name="answer3">red</string>
-    <string name="answer4">white</string>
-    <string name="answer5">pink</string>
-    <string name="answer6">orange</string>
-    <string name="answer7">lightblue</string>
-    <string name="answer8">yellow</string>
-    <string name="answer9">purple</string>
-    <string name="answer10">orange</string>
+    <string name="answer1">PINK</string>
+    <string name="answer2">DARK BLUE</string>
+    <string name="answer3">RED</string>
+    <string name="answer4">WHITE</string>
+    <string name="answer5">PINK</string>
+    <string name="answer6">ORANGE</string>
+    <string name="answer7">LIGHT BLUE</string>
+    <string name="answer8">YELLOW</string>
+    <string name="answer9">PURPLE</string>
+    <string name="answer10">ORANGE</string>
 </resources>
