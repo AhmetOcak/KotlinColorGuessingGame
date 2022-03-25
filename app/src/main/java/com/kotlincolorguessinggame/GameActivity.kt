@@ -28,7 +28,6 @@ class GameActivity : AppCompatActivity() {
 
     fun answerButton(view: View) {
         val userAnswer = findViewById<TextView>(view.id).text.toString()
-        Log.e("q", s.toString())
 
         if (userAnswer == resources.getString(DataSource().loadAnswers()[s])) {
             s += 1
