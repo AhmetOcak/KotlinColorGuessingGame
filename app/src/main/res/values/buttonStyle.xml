@@ -7,6 +7,5 @@
         <item name="cornerRadius">10dp</item>
         <item name="backgroundTint">@color/pink</item>
         <item name="android:textColor">@color/vibrantpink</item>
-        <item name="android:onClick">answerButton</item>
     </style>
 </resources>

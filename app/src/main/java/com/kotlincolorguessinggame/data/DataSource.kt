@@ -4,7 +4,7 @@ import com.kotlincolorguessinggame.R
 
 class DataSource {
     fun loadFlowers():List<Int> {
-        return listOf<Int>(
+        return listOf(
             R.drawable.flower1,
             R.drawable.flower2,
             R.drawable.flower3,
@@ -18,7 +18,7 @@ class DataSource {
         )
     }
     fun loadAnswers():List<Int> {
-        return listOf<Int>(
+        return listOf(
             R.string.answer1,
             R.string.answer2,
             R.string.answer3,
@@ -32,7 +32,7 @@ class DataSource {
         )
     }
     fun loadAnswerOptions():List<Int> {
-        return listOf<Int>(
+        return listOf(
             R.array.question1,
             R.array.question2,
             R.array.question3,
