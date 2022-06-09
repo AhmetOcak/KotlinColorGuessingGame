@@ -1,4 +1,4 @@
-# KotlinColorGuessingGame
+# KotlinColorGuessingGame 🎮
 
 Tahmin doğruysa "CORRRECT :)" yazısı çıkar.
 
